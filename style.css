@@ -91,6 +91,15 @@ input[type=text]{
 	margin:0;
 	padding: 0;
 }
+.horizontal-list2 .lis{
+	background: #F88822; 
+	border-radius: 50%; 
+	text-align: center;
+}
+.horizontal-list2 .lis i{
+ 	color: #ffffff; 
+ 	margin-left: -2px;
+}
 
 .horizontal-list2 li {
     display: inline-block;
